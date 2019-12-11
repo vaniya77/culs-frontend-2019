@@ -85,7 +85,7 @@ Tanim Sakibul Alom
 
 Yoginkumar Vaniya
 
-[Repo url](https://github.com/ujjalomc/study-block/blob/master/Yogin.html)
+[Repo url](https://github.com/ujjalomc/study-block/blob/master/index.html)
 
 100%
 
